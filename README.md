@@ -8,4 +8,4 @@ Model-fitting was done using XGBoost.
 
 These scripts were good for a spot in the top 5% on the leaderboard (46th/974).
 
-!(https://www.kaggle.com/c/telstra-recruiting-network/leaderboard)
+https://www.kaggle.com/c/telstra-recruiting-network/leaderboard
