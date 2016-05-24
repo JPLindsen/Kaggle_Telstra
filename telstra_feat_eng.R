@@ -7,6 +7,7 @@ setwd("C:/Users/Job Lindsen/Desktop/Kaggle/Telstra")
 
 # Load data
 train <- read.csv("Data/train.csv")
+
 test_sub <- read.csv("Data/test.csv")
 log_feature <- read.csv("Data/log_feature.csv")
 severity <- read.csv("Data/severity_type.csv")
